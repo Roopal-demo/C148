@@ -1,0 +1,13 @@
+Steps to run C148:
+
+1)Write the code in editor and save it in a folder named C148
+2)Open Node.js command prompt
+3)Run command to install the http-server:
+npm install -g http-server
+4)Navigate to your working folder:
+cd C:\Users\ROOPS\Downloads\C148
+5)Run the http-server with following command on the prompt:
+http-server
+6)After the server starts it gives a IP address for you to see the output:
+ http://192.168.1.6:8080
+7)copy it and paste it in the browser to see the output.
